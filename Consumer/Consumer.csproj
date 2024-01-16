@@ -13,7 +13,7 @@
     <PackageReference Include="microsoft.extensions.hosting" Version="2.2.0" />
     <PackageReference Include="microsoft.extensions.logging.console" Version="2.2.0" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.7.12" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.6.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
   <ItemGroup>
